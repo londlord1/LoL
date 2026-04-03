@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ConversationHandler
 
 # === ЗАМЕНИ НА СВОИ ТОКЕНЫ ===
-TELEGRAM_TOKEN = "ТВОЙ_ТОКЕН_ОТ_BOTFATHER"
+TELEGRAM_TOKEN = "8678845826:AAFNS_Qf_MzTCkSbw28oOGGtBVQTgdpFJB4"
 DEEPSEEK_API_KEY = "sk-f0bc6efb38d04a18aabeae28fe50036f"
 
 async def start(update, context):
